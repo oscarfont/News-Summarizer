@@ -7,4 +7,4 @@ IDE: NetBeans.
 Objective: Obtain RSS news from a source and be able to summarize them and output them in an HTML file.  
 
 ## Description
-Java application that uses a Gate summary app to sumarize RSS News from the catalan sports newspaper web ara.cat. The application summarizes the main articles of the day and outputs the in an html file.
+Java application that uses a Gate summary app to sumarize RSS News from the catalan sports newspaper web ara.cat. The application summarizes the main articles of the day and outputs them in an HTML file.
